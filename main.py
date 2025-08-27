@@ -1,8 +1,11 @@
-# Printing to the Console in Python
-print("Hello World")
-# My Recipe
-print("1. Mix 500g of Flour, 10g Yeast and 300ml Water in a bowl.")
-print("2. Knead the dough for 10 minutes.")
-print("3. Add 3g of Salt.")
-print("4. Leave to rise for 2 hours.")
-print("5. Bake at 200 degrees C for 30 minutes.")
+print("Hello World?\nHow are you?")
+print("Hello" + "Glaz")
+print("Hello " + "Glaz")
+print("Hello" + " Glaz")
+print("Hello" + " " + "Glaz")
+# SyntaxError
+# print("Hello" + " " + "Glaz)
+# IndentationError: Unexpected indent
+# print("Space before the line")
+print("Space before the line")
+print ("It's working")
